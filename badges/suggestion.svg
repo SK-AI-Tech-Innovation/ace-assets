@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="59" height="18" viewBox="0 0 120 36">
-  <rect width="120" height="36" rx="8" fill="#3478C6"/>
-  <text x="60" y="25" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="400" fill="white" text-anchor="middle">Suggestion</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="20" viewBox="0 0 75 20">
+  <rect width="75" height="20" rx="4" fill="#3478C6"/>
+  <text x="37.5" y="14.5" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="white" text-anchor="middle">Suggestion</text>
 </svg>
